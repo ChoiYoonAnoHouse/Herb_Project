@@ -32,5 +32,11 @@
 ![버튼 소스](https://user-images.githubusercontent.com/108312250/195639976-d6170698-3710-4345-ac95-c2acac97878e.png)
 ![그림](https://user-images.githubusercontent.com/108312250/195639979-1c2b760b-f5ef-4fbc-a486-e8b6241ec269.png)
 
+## Story 구현
+![story](https://user-images.githubusercontent.com/108312250/195640195-e365d24b-cbce-4cf2-82ea-587db6726e04.png)
+
+## statistics
+![제목 없음](https://user-images.githubusercontent.com/108312250/195640486-a5fb478a-93b3-4035-893f-eaae99a4fbb3.png)
+
 ----------------------
 ## 구동화면
