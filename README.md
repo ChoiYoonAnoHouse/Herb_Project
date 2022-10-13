@@ -33,6 +33,8 @@
 ![그림](https://user-images.githubusercontent.com/108312250/195639979-1c2b760b-f5ef-4fbc-a486-e8b6241ec269.png)
 
 ## Story 구현
+- 기획
+![스토리기획](https://user-images.githubusercontent.com/108312250/195641295-c5e69e80-67e2-40d1-8785-3d0b6b8840b0.png)
 ![story](https://user-images.githubusercontent.com/108312250/195640195-e365d24b-cbce-4cf2-82ea-587db6726e04.png)
 
 ## statistics
