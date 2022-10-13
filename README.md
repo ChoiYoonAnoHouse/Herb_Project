@@ -9,16 +9,28 @@
 - 사용 툴 : Unity, Photoshop, Visual Studio 2017
 - Asset : Fungus
 ----------------------
+
 ## 기획
 ![기획](https://user-images.githubusercontent.com/108312250/195639325-a448815f-abe8-4e64-9b09-571b3691f158.png)
+
 ### 벤치마킹
 ![벤치마킹](https://user-images.githubusercontent.com/108312250/195639593-d188d16c-d3c5-48ca-a4aa-deb326e4002b.png)
 ![벤치마킹 2](https://user-images.githubusercontent.com/108312250/195639601-ae0dfd8d-31d2-4faf-a8c4-60f214661d2c.png)
+
 ----------------------
+
 ### Unity Hub
 ![유니티 허브](https://user-images.githubusercontent.com/108312250/195636831-b6281758-9a41-4d93-9154-9584faa2bdbe.png)
+
 ### Unity 화면
 ![유니티 2](https://user-images.githubusercontent.com/108312250/195637889-8f20406e-43a9-4029-b054-944519116f50.png)
+
 ### Flow Chart
+![유니티](https://user-images.githubusercontent.com/108312250/195639866-2257ac13-68d3-4b30-aab7-fbd901389df1.png)
+
+### 디자인 소스
+![버튼 소스](https://user-images.githubusercontent.com/108312250/195639976-d6170698-3710-4345-ac95-c2acac97878e.png)
+![그림](https://user-images.githubusercontent.com/108312250/195639979-1c2b760b-f5ef-4fbc-a486-e8b6241ec269.png)
+
 ----------------------
 ## 구동화면
