@@ -42,7 +42,7 @@
 
 ----------------------
 ## 구동화면
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/108312250/195643477-f0b4f9e0-489a-4756-8990-452a864282a5.gif)<br>
-- 시작화면
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/108312250/195643477-f0b4f9e0-489a-4756-8990-452a864282a5.gif)
+- 시작화면 <br><br>
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/108312250/195643483-3e3f8cc7-82e9-48b6-918e-3ac85b876be8.gif)
 - 미니게임_퍼즐 게임
